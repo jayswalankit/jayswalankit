@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @jayswalankit
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning Advance java , DSA ...
-- 💞️ I’m looking to collaborate on some cool and interesting projects which challenge me...
-- 📫 How to reach me DM me on my insta id https://www.instagram.com/its_ankit_jayswal?igsh=ZHp1M2lwMDAzcDJi 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am lazy but I still code because I Love it... 
+# Hi, I'm Ankit 👋
 
-<!---
-jayswalankit/jayswalankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a developer who enjoys turning ideas into practical projects. I'm currently building my skills in Java, data structures and algorithms, and web development.
+
+## What I'm working with
+- Java, C, JavaScript, HTML, and CSS
+- Learning: advanced Java and data structures & algorithms
+
+## Featured projects
+- **[Snake Game](https://github.com/jayswalankit/Snake-Game)** — A responsive browser game with keyboard controls, saved high scores, and a best-time tracker.
+- **[AI Financial Companion](https://github.com/jayswalankit/ai-financial-companion)** — An AI-focused project exploring financial tools.
+- **[React Project](https://github.com/jayswalankit/React-Project)** — A project built with React.
+- **[Food Delivery Webpage](https://github.com/jayswalankit/Food-Delivery-webpage-with-html-and-css)** — A food delivery webpage built with HTML and CSS.
+
+## Connect
+- GitHub: [@jayswalankit](https://github.com/jayswalankit)
